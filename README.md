@@ -25,4 +25,4 @@ It is a **static resume website** built using HTML, CSS & JavaScript.
 This project shows my ability to build a professional website from scratch, apply styling and basic interactivity.
 
 *Created by Javeria Nigar*  
-© 2025
+
